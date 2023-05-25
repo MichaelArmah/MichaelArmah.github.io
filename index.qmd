@@ -1,10 +1,27 @@
 ---
 title: "Michael Armah"
+subtitle: "Ph.D. Student<br> Department of Statistics and Data Science,<br> Northwestern University"
+
+about: 
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/MichaelArmah
+    - icon: linkedin
+      text: "LinkedIn"
+      href: www.linkedin.com/in/michael-armah
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Quarto enables you to weave together content and executable code into a
+finished document. To learn more about Quarto see <https://quarto.org>.
 
 ```{r}
 1 + 1
