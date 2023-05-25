@@ -1,7 +1,32 @@
 project:
-  title: "MyWebsite"
+  title: "Michael Armah"
 
-editor: visual
+website:
+  navbar:
+    pinned: true
+    search: true
+    title: false
+    left:
+      - icon: house-door-fill
+        text: " "
+        file: index.qmd 
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Contact"
+        file: contact.qmd
+      - text: "Resume"
+        file: resume3.pdf
+
+format:
+  html:
+    anchor-sections: true
+    smooth-scroll: true
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
+    
 
 
 
