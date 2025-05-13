@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+// Soft modern professional palette
+$linen: #FAF7F2;           // Background
+$navy-ink: #2A2F45;        // Headings / text
+$dusty-blue: #8CA6DB;      // Navbar
+$cinnamon: #B45F06;        // Links / highlight
+$cloud: #E0E0E0;           // Code block bg
+$muted-taupe: #5C5346;     // Footer / secondary
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+// Base font settings
+$main-font-size: 22px;
+$main-width: 500px;
+
+// Base document colors
+$navbar-bg: $dusty-blue;
+$navbar-fg: $linen;
+$navbar-hl: $cinnamon;
+$body-bg: $linen;
+$body-color: $navy-ink;
+$footer-bg: $cloud;
+$link-color: $cinnamon;
+
+// Inline code
+$code-bg: $cloud;
+$code-color: $cinnamon;
+
+// Code blocks
+$code-block-bg: $cloud;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: $navy-ink;
+}
+
+h3 {
+  color: $muted-taupe;
+}

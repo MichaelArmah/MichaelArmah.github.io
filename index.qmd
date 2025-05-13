@@ -1,9 +1,9 @@
 ---
 title: "Michael Armah"
-subtitle: "Ph.D. Student<br> Department of Statistics and Data Science,<br> Northwestern University"
+subtitle: "Ph.D. Candidate<br> Department of Statistics and Data Science,<br> Northwestern University"
 
 about: 
-  template: trestles
+  template: solana
   image: profile.jpg
   image-shape: rounded
   links: 
@@ -12,17 +12,96 @@ about:
       href: https://github.com/MichaelArmah
     - icon: linkedin
       text: "LinkedIn"
-      href: www.linkedin.com/in/michael-armah
+      href: https://www.linkedin.com/in/michael-armah
+    - icon: envelope
+      text: "Email"
+      href: mailto:MichaelArmah2027@u.northwestern.edu
 editor: 
   markdown: 
     wrap: 72
 ---
 
-## Quarto
+## About Me
 
-Quarto enables you to weave together content and executable code into a
-finished document. To learn more about Quarto see <https://quarto.org>.
+I am a third year PhD candidate in Statistics and Data Science and a
+Research Assistant in the Institute for Policy Research at Northwestern
+University. My research focuses on unsupervised learning and machine
+learning for multivariate meta-analyses. More specifically, my work
+statistically robust methods for exploratory analysis on hierarchical
+data.
 
-```{r}
-1 + 1
-```
+## Skills
+
+-   Machine Learning
+-   Meta Analysis
+-   Exploratory Analysis
+-   Statistical Modeling and Analysis
+-   Data Visualization
+-   Experimental Design
+-   Unsupervised Learning
+
+## Education
+
+<ul class="ul-edu fa-ul">
+
+<li>
+
+<i class="fa-li fa fa-graduation-cap"></i>
+
+::: description
+<p class="course">
+
+PhD in Statistics, Expected Spring 2027
+
+</p>
+
+<p class="institution">
+
+Northwestern University
+
+</p>
+:::
+
+</li>
+
+<li>
+
+<i class="fa-li fa fa-graduation-cap"></i>
+
+::: description
+<p class="course">
+
+MS in Statistics and Data Science
+
+</p>
+
+<p class="institution">
+
+Northwestern University
+
+</p>
+:::
+
+</li>
+
+<li>
+
+<i class="fa-li fa fa-graduation-cap"></i>
+
+::: description
+<p class="course">
+
+BS in Statistics and Analytics, BA in Economics, Minor in Neuroscience
+
+</p>
+
+<p class="institution">
+
+University of North Carolina at Chapel Hill
+
+</p>
+:::
+
+</li>
+
+</ul>

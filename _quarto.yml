@@ -10,24 +10,24 @@ website:
     left:
       - icon: house-door-fill
         text: " "
-        file: index.qmd 
+        file: index.qmd
       - text: "Teaching"
         file: teaching.qmd
-      - text: "Contact"
-        file: contact.qmd
+#      - text: "Contact"
+#        file: contact.qmd
       - text: "Resume"
         file: resume3.pdf
+      - text: "CV"
+        file: Academic_CV.pdf
 
 format:
   html:
-    anchor-sections: true
-    smooth-scroll: true
     theme:
-      dark: darkly
-      light: flatly
-    css: styles.css
+      - pulse
+      - styles.scss
     toc: true
-    
+    smooth-scroll: true
+    anchor-sections: true
 
 
 

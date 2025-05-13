@@ -1,0 +1,10 @@
+---
+title: "Contact"
+format: html
+---
+
+# Get in Touch
+
+- 📧 **Email**: [MichaelArmah2027@u.northwestern.edu](mailto:MichaelArmah2027@u.northwestern.edu)  
+- 💼 **LinkedIn**: [linkedin.com/in/michael-armah](https://www.linkedin.com/in/michael-armah)  
+- 🏫 **Office**: Department of Statistics and Data Science, Northwestern University

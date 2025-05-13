@@ -1,0 +1,13 @@
+---
+title: "Teaching Experience"
+format: html
+---
+
+## Teaching Assistant  
+**Northwestern University**, Department of Statistics and Data Science  
+*September 2023 – Present*
+
+- **STAT 350**: Regression Analysis  
+- **STAT 301-1/2/3**: Data Science with R Sequence  
+- **STAT 210**: Introduction to Probability and Statistics  
+
