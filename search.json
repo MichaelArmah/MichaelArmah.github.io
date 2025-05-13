@@ -4,13 +4,48 @@
     "href": "index.html",
     "title": "Michael Armah",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a third year PhD candidate in Statistics and Data Science and a Research Assistant in the Institute for Policy Research at Northwestern University. My research focuses on unsupervised learning and machine learning for multivariate meta-analyses. More specifically, my work statistically robust methods for exploratory analysis on hierarchical data."
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Michael Armah",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a third year PhD candidate in Statistics and Data Science and a Research Assistant in the Institute for Policy Research at Northwestern University. My research focuses on unsupervised learning and machine learning for multivariate meta-analyses. More specifically, my work statistically robust methods for exploratory analysis on hierarchical data."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Michael Armah",
+    "section": "Skills",
+    "text": "Skills\n\nMachine Learning\nMeta Analysis\nExploratory Analysis\nStatistical Modeling and Analysis\nData Visualization\nExperimental Design\nUnsupervised Learning"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Michael Armah",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected Spring 2027\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMS in Statistics and Data Science\n\n\nNorthwestern University\n\n\n\n\n\n\n\nBS in Statistics and Analytics, BA in Economics, Minor in Neuroscience\n\n\nUniversity of North Carolina at Chapel Hill"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2023 – Present\n\nSTAT 350: Regression Analysis\n\nSTAT 301-1/2/3: Data Science with R Sequence\n\nSTAT 210: Introduction to Probability and Statistics"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2023 – Present\n\nSTAT 350: Regression Analysis\n\nSTAT 301-1/2/3: Data Science with R Sequence\n\nSTAT 210: Introduction to Probability and Statistics"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n\n📧 Email: MichaelArmah2027@u.northwestern.edu\n\n💼 LinkedIn: linkedin.com/in/michael-armah\n\n🏫 Office: Department of Statistics and Data Science, Northwestern University"
   }
 ]

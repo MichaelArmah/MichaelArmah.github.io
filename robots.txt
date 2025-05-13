@@ -1,1 +1,1 @@
-Sitemap: https://github.com/MichaelArmah/MichaelArmah.github.io/sitemap.xml
+Sitemap: https://MichaelArmah.github.io/sitemap.xml
