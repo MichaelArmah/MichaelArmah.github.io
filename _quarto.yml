@@ -19,6 +19,34 @@ website:
         file: resume3.pdf
       - text: "CV"
         file: Academic_CV.pdf
+    right: 
+      - icon: mortarboard-fill
+        href: https://statistics.northwestern.edu/
+        target: _blank
+      - text: STEPP Center
+        href: https://steppcenter.northwestern.edu/
+        target: _blank
+      - text: Team
+        href: https://steppcenter.northwestern.edu/people/
+        target: _blank
+      # - text: CV
+      #   href: Academic_CV.pdf
+      # - text: Resume
+      #   href: resume3.pdf
+      # - icon: github
+      #   href: https://github.com/MichaelArmah
+      #   target: _blank
+
+
+  page-footer:
+    left: "[Michael Armah](https://github.com/MichaelArmah) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Build on [Michael Armah's Personal Website](https://github.com/MichaelArmah/MichaelArmah.github.io) adapted by [Michael Armah](https://github.com/MichaelArmah)"
+    right:
+      - icon: github
+        href: https://github.com/MichaelArmah
+        target: _blank
+
+
 
 format:
   html:
@@ -30,4 +58,113 @@ format:
     anchor-sections: true
 
 
+
+
+# 
+# project:
+#   type: website
+#   output-dir: docs
+# 
+# # Meta
+# description-meta: "Michael Armah's Personal Website"
+# author-meta: "Michael Armah"
+# 
+# website:
+#   title: "Michael Armah"
+# #  image: "https://quarto.org/quarto.png"
+#   description: "Michael Armah's Personal Website"
+#  
+#   navbar:
+#     background: light #????
+# 
+#     left:
+# #      - text: Home
+# #        href: index.qmd
+#       - text: About
+#         menu:
+# #          - text: News
+# #            href: posts.qmd#category=news
+# #          - text: Events
+# #            href: posts.qmd#category=event      
+#           - text: Contact
+#             href: contact.qmd             
+#       # - text: Research
+#       #   menu:
+#       #     - text: List of Publication
+#       #       href: publications.qmd
+#       #     - text: Selected Papers
+#       #       href: posts.qmd#category=paper
+#       #     - text: Grants
+#       #       href: projects.qmd                                
+#       - text: Teaching
+#         href: teaching.qmd
+#       # - text: Outreach
+#       #   menu:        
+#       #   - text: Presentations
+#       #     href: posts.qmd#category=presentation                   
+#       - text: Group
+#         href: people.qmd
+# 
+#     right: 
+#       - text: CV
+#         href: Academic_CV.pdf
+#       - text: Resume
+#         href: resume3.pdf
+#       - icon: github
+#         href: https://github.com/MichaelArmah
+#         target: _blank
+#       - icon: rss
+#         href: posts.xml
+#         target: _blank
+#   
+#   page-navigation: true
+#   
+#   page-footer: 
+#     left: "[Michael Armah](https://github.com/MichaelArmah) &copy; <script>document.write(new Date().getFullYear())</script>" 
+#     center: "Build on [Michael Armah's Personal Website](https://github.com/MichaelArmah/MichaelArmah.github.io) adapted by [Michael Armah](https://github.com/MichaelArmah)"
+#     right:  
+#       - icon: github
+#         href: https://github.com/MichaelArmah
+#         target: _blank
+#  
+#   
+#   search:
+#     location: navbar
+#     type: textbox
+#   
+#   reader-mode: true
+# 
+#   draft-mode: unlinked
+#   
+#   repo-url: https://github.com/MichaelArmah/MichaelArmah.github.io
+# #  repo-actions: [edit, issue, source]
+#   
+#   open-graph: true
+#   
+#   twitter-card: true 
+# #  card-style: summary      
+#   
+#   site-url: "https://michaelarmah.github.io/"
+#   
+#   google-analytics:
+#     tracking-id: ""  # Please delete or replace with your own tracking ID
+#     anonymize-ip: true 
+# 
+# #bibliography: references.bib
+# 
+# format:
+#   html:
+#     theme: cosmo
+#     css: styles.scss
+#     toc: true
+#     footnotes-hover: true
+#     code-copy: true
+#     code-link: true
+#     code-overflow: wrap
+#     fig-align: center
+#     link-external-icon: false
+#     link-external-newwindow: true
+#     email-obfuscation: javascript
+#     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+#     include-in-header: "files/includes/_academic.qmd"
 
