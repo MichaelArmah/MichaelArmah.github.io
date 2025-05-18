@@ -29,8 +29,8 @@ I am a third year PhD candidate in Statistics and Data Science and a
 Research Assistant in the Institute for Policy Research at Northwestern
 University. My research focuses on unsupervised learning and machine
 learning for multivariate meta-analyses. More specifically, my work
-statistically robust methods for exploratory analysis on hierarchical
-data.
+finds statistically robust methods for exploratory analysis on
+hierarchical data.
 
 ## Skills
 
