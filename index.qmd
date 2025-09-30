@@ -27,12 +27,12 @@ editor:
 
 Michael is a third-year Ph.D. candidate in Statistics and Data Science
 at Northwestern University and a Research Assistant at the Institute for
-Policy Research. His research develops statistically rigorous methods
-for exploratory analysis in hierarchical and multilevel data structures.
-More specifically, he focuses on advancing unsupervised learning and
-machine learning techniques tailored to the complexities of multivariate
+Policy Research. His research develops rigorous exploratory analysis
+methods and predictive models for hierarchical data structures. More
+specifically, he focuses on advancing unsupervised learning and machine
+learning techniques tailored to the complexities of multivariate
 meta-analysis, with the goal of improving the reliability and
-interpretability of evidence synthesis across diverse empirical domains.
+interpretability of evidence synthesis across diverse disciplines.
 
 ## Skills
 
