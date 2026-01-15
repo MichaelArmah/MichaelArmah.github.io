@@ -25,7 +25,7 @@ editor:
 
 ## About Me
 
-Michael is a third-year Ph.D. candidate in Statistics and Data Science
+Michael is a fourth-year Ph.D. candidate in Statistics and Data Science
 at Northwestern University and a Research Assistant at the Institute for
 Policy Research. His research develops rigorous exploratory analysis
 methods and predictive models for hierarchical data structures. More
