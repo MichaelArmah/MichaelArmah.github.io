@@ -25,15 +25,14 @@ editor:
 
 ## About Me
 
-Michael is a fourth-year Ph.D. candidate in the Department of Statistics
+Michael is a fifth-year Ph.D. candidate in the Department of Statistics
 and Data Science at Northwestern University and a Research Assistant at
 the Institute for Policy Research. His research develops rigorous
 unsupervised learning and machine learning methods to create predictive
 models for hierarchical data structures. More specifically, he focuses
-on advancing factor analysis and clustering techniques tailored to the
-complexities of multivariate meta-analysis, with the goal of improving
-the reliability and interpretability of evidence synthesis across
-diverse disciplines.
+on advancing factor analysis tailored to the complexities of
+multivariate meta-analysis, with the goal of improving the reliability
+and interpretability of evidence synthesis across diverse disciplines.
 
 ## Skills
 
@@ -56,7 +55,7 @@ diverse disciplines.
 ::: description
 <p class="course">
 
-PhD in Statistics, Expected Spring 2027
+PhD in Statistics and Data Science, Expected Spring 2027
 
 </p>
 
